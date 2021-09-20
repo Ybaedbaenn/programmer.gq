@@ -101,7 +101,7 @@ img{
 	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
-	background:#eob941;
+	background:#e0b941;
 	padding:clamp(0px, 3vw, 20px);
 	border:none;
 }
