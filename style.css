@@ -63,6 +63,20 @@ img{
 	max-width:373px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
+	background:#cc2626;
+	padding:clamp(0px, 3vw, 20px);
+	border:none;
+}
+
+#button3:hover{
+	background:#ffffff;
+}
+
+#button4{
+	width:45vw;
+	max-width:373px;
+	color:#000000;
+	font-size:clamp(0px, 6vw, 40px);
 	background:#ffffff;
 	padding:clamp(0px, 3vw, 20px);
 	border:none;
