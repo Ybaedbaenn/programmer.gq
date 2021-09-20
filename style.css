@@ -50,6 +50,9 @@ img{
 	border:none;
 }
 
+#button1:hover{
+	background:#ffffff;
+}
 
 #button2{
 	width:70vw;
@@ -61,6 +64,9 @@ img{
 	border:none;
 }
 
+#button2:hover{
+	background:#ffffff;
+}
 
 #button3{
 	width:70vw;
@@ -70,6 +76,10 @@ img{
 	background:#cc2626;
 	padding:clamp(0px, 3vw, 20px);
 	border:none;
+}
+
+#button3:hover{
+	background:#ffffff;
 }
 
 #button4{
@@ -82,6 +92,10 @@ img{
 	border:none;
 }
 
+#button4:hover{
+	background:#ffffff;
+}
+
 #button5{
 	width:70vw;
 	max-width:580px;
@@ -90,8 +104,4 @@ img{
 	background:#ffffff;
 	padding:clamp(0px, 3vw, 20px);
 	border:none;
-}
-
-button:hover{
-	background:#ffffff;
 }
