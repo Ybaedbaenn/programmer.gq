@@ -31,8 +31,8 @@ img{
 }
 
 #button0{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#ffffff;
@@ -41,8 +41,8 @@ img{
 }	
 
 #button1{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#2481a1;
@@ -55,8 +55,8 @@ img{
 }
 
 #button2{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#00cc99;
@@ -69,8 +69,8 @@ img{
 }
 
 #button3{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#cc2626;
@@ -83,8 +83,8 @@ img{
 }
 
 #button4{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#8635b2;
@@ -97,8 +97,8 @@ img{
 }
 
 #button5{
-	width:45vw;
-	max-width:373px;
+	width:70vw;
+	max-width:580px;
 	color:#000000;
 	font-size:clamp(0px, 6vw, 40px);
 	background:#ffffff;
