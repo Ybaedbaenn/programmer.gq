@@ -57,3 +57,13 @@ img{
 #button2:hover{
 	background:#ffffff;
 }
+
+#button3{
+	width:45vw;
+	max-width:373px;
+	color:#000000;
+	font-size:clamp(0px, 6vw, 40px);
+	background:ffffff;
+	padding:clamp(0px, 3vw, 20px);
+	border:none;
+}
