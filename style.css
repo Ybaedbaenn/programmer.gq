@@ -29,7 +29,17 @@ img{
 	max-width:50%;
 	max-height:50%;
 }
-	
+
+#button0{
+	width:45vw;
+	max-width:373px;
+	color:#000000;
+	font-size:clamp(0px, 6vw, 40px);
+	background:#ffffff;
+	padding:clamp(0px, 3vw, 20px);
+	border:none;
+}	
+
 #button1{
 	width:45vw;
 	max-width:373px;
@@ -73,6 +83,20 @@ img{
 }
 
 #button4{
+	width:45vw;
+	max-width:373px;
+	color:#000000;
+	font-size:clamp(0px, 6vw, 40px);
+	background:#8635b2;
+	padding:clamp(0px, 3vw, 20px);
+	border:none;
+}
+
+#button4:hover{
+	background:#ffffff;
+}
+
+#button5{
 	width:45vw;
 	max-width:373px;
 	color:#000000;
