@@ -1,3 +1,8 @@
+@font-face{
+	font-family:Phenomena;
+	src:url("Phenomena-Regular.otf");
+}
+
 html{
 	width:100%;
 	height:100%;
@@ -12,13 +17,16 @@ body{
 	margin:0;
 	padding:0;
 	font-family:Helvetica;
+	color:#ffffff;
+	font-family:Phenomena;
 }
 
-div{
+#container{
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
+	text-align:center;
 	width:100%;
 	height:100%;
 	margin:0;
@@ -26,13 +34,19 @@ div{
 }
   
 img{
-	max-width:50%;
-	max-height:50%;
+	width:100%;
+}
+
+#center{
+	width:50%;
+	height:90%;
+	max-width:calc(60vh);
 }
 
 a{
-	width:100%;
-	height:100%;
+	text-decoration:none;
+	color:#7cfc00;
+	text-align:center;
 	margin:0;
 	padding:0;
 }
